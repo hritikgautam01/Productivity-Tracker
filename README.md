@@ -66,3 +66,17 @@ npm install
 
 npm run dev
 
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Task Manager
+![Tasks](screenshots/tasks.png)
+
+### Analytics Page
+![Analytics](screenshots/analytics.png)
