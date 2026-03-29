@@ -83,3 +83,12 @@ npm run dev
 
 ### Analytics Page
 ![Analytics](screenshots/analytics.png)
+
+### Adding tasks using Time blocks 
+![time-block](screenshots/adding-time-block.png)
+
+### Time block calender 
+![calender](screenshots/time-block-calender.png)
+
+### Dark mode 
+![dark](screenshots/dark-mode-dashboard.png)
