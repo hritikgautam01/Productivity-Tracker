@@ -1,0 +1,34 @@
+🚀 How to Run Your App
+Step 1 — Start MongoDB (open PowerShell as Administrator)
+
+powershell
+net start MongoDB
+Step 2 — Start the Backend (open a PowerShell terminal in VS Code)
+
+powershell
+cd "C:\Users\hriti\Desktop\Productivity Tracker -- Advanced todo\backend"
+npm run server
+✅ You should see: Server running on port 5000 and MongoDB Connected
+
+Step 3 — Start the Frontend (open a second PowerShell terminal)
+
+powershell
+cd "C:\Users\hriti\Desktop\Productivity Tracker -- Advanced todo\frontend"
+npm run dev
+✅ You should see: Local: http://localhost:5173/
+
+Step 4 — Open the App in your browser
+
+http://localhost:5173
+🎯 Showcase Walkthrough (in order)
+#	What to show	Where
+1	Sign up with a new account	/signup
+2	Log in	/login
+3	Add tasks for today, mark some complete	Dashboard
+4	Watch productivity % and streak 🔥 update live	Dashboard stats
+5	Toggle 🌙 Dark Mode from sidebar	Sidebar bottom
+6	Go to Tasks page to manage all tasks	/tasks
+7	Go to Analytics for charts	/analytics
+8	Go to Calendar, drag across time slots to create a block	/calendar
+9	Drag a calendar block to move it to a different time	/calendar
+10	Open MongoDB Compass → productivity-tracker → tasks collection to show data is live	Compass
