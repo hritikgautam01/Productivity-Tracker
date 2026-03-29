@@ -75,6 +75,9 @@ npm run dev
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Dashboard scroll
+![Dashboard scroll](screenshots/dashboard-2.png)
+
 ### Task Manager
 ![Tasks](screenshots/tasks.png)
 
