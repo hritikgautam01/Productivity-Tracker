@@ -1,4 +1,4 @@
-\# Productivity Tracker
+# Productivity Tracker
 
 
 
@@ -6,49 +6,49 @@ A full-stack MERN productivity tracker that helps users manage tasks, track stre
 
 
 
-\## Tech Stack
+## Tech Stack
 
-\- MongoDB
+- MongoDB
 
-\- Express.js
+- Express.js
 
-\- React.js
+- React.js
 
-\- Node.js
-
-
-
-\## Features
-
-\- User authentication
-
-\- Task management
-
-\- Dashboard with charts
-
-\- Calendar and streak tracking
-
-\- Weekly and monthly analytics
-
-\- AI insights section
+- Node.js
 
 
 
-\## In Progress
+## Features
 
-\- Better UI improvements
+- User authentication
 
-\- More advanced analytics
+- Task management
 
-\- Deployment
+- Dashboard with charts
+
+- Calendar and streak tracking
+
+- Weekly and monthly analytics
+
+- AI insights section
 
 
 
-\## How to Run
+## In Progress
+
+- Better UI improvements
+
+- More advanced analytics
+
+- Deployment
 
 
 
-\### Backend
+## How to Run
+
+
+
+### Backend
 
 cd backend
 
@@ -58,7 +58,7 @@ npm start
 
 
 
-\### Frontend
+### Frontend
 
 cd frontend
 
